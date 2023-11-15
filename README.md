@@ -22,3 +22,21 @@ NEURONATION
 * Neuronation es una plataforma en línea que se centra en el entrenamiento cerebral y el desarrollo cognitivo. 
 * Ofrece una variedad de juegos y ejercicios diseñados para mejorar habilidades como la memoria, la concentración y la agilidad mental. 
 * La plataforma utiliza la neurociencia y la gamificación para proporcionar a los usuarios un enfoque interactivo y entretenido para el entrenamiento cerebral, con el objetivo de mejorar el rendimiento cognitivo y mantener la salud mental.
+
+
+
+****Actividad 19: Traspasar la matriz de la actividad 9 en la plataforma Jira, en dicha actividad al equipo le asignaron realizar la matriz de casos de pruebas a la pantalla Carrito del Petshop. 
+
+Esta actividad contiene tres carpetas: 
+
+- Matriz A9 Usada en A19
+-- Contenido: Archivo de excel con la matriz de casos de pruebas.
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/VanesaSinopoli/TrabajoActividad19/Matriz%20A9%20Usada%20en%20A19/Captura%20de%20Matriz.png)
+
+- Capturas Trabajo en Jira
+-- Contenido: Imagenes con los graficos y el trabajo realizado en la plataforma Jira
+![](TrabajoActividad19/Capturas Trabajo Jira A19/Captura Graficos Trabajo en Jira.png)
+
+- Trabajo Entregado MindHub A19
+-- Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
+![](TrabajoActividad19/Trabajo Entregado MindHub A19/Captura PDF entregado MindHub.png)
