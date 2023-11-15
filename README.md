@@ -28,6 +28,7 @@ NEURONATION
 * 
 
 
+
 #### Actividad 19: Traspasar la matriz de la actividad 9 en la plataforma Jira, en dicha actividad al equipo le asignaron realizar la matriz de casos de pruebas a la pantalla Carrito del Petshop. 
 
 Esta actividad contiene tres carpetas: 
@@ -48,5 +49,7 @@ Actividad Nro 21, Recordatorio de Medicamentos.
 
 Esta actividad la dividí en dos carpetas:
 
-*La primera carpeta corresponde al TC Nro 15 de la actividad "Recordatorio de Medicamentos".
+* La primera carpeta corresponde al TC Nro 15 de la actividad "Recordatorio de Medicamentos".
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/Caso%20de%20Prueba/imagen%201.png)
+* la carpeta de "Evidencias" contiene las evidencias de este mismo TC.
+* ![](https://github.com/MaxiOrellanadev/ActividadesTesting/tree/main/Actividad21_Recordatorio%20de%20Medicamentos/Evidencias)
