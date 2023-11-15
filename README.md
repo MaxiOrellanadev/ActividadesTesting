@@ -35,7 +35,7 @@ Esta actividad contiene tres carpetas:
 
 - Capturas Trabajo en Jira
 -- Contenido: Imagenes con los graficos y el trabajo realizado en la plataforma Jira
-![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Capturas%20Trabajo%20Jira%20A19/Captura%20Graficos%20Trabajo%20en%20Jira.png))
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Capturas%20Trabajo%20Jira%20A19/Captura%20Graficos%20Trabajo%20en%20Jira.png)
 
 - Trabajo Entregado MindHub A19
 -- Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
