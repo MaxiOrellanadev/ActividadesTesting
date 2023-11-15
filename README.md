@@ -25,7 +25,7 @@ NEURONATION
 
 
 
-****Actividad 19: Traspasar la matriz de la actividad 9 en la plataforma Jira, en dicha actividad al equipo le asignaron realizar la matriz de casos de pruebas a la pantalla Carrito del Petshop. 
+#### Actividad 19: Traspasar la matriz de la actividad 9 en la plataforma Jira, en dicha actividad al equipo le asignaron realizar la matriz de casos de pruebas a la pantalla Carrito del Petshop. 
 
 Esta actividad contiene tres carpetas: 
 
@@ -35,8 +35,8 @@ Esta actividad contiene tres carpetas:
 
 - Capturas Trabajo en Jira
 -- Contenido: Imagenes con los graficos y el trabajo realizado en la plataforma Jira
-![](TrabajoActividad19/Capturas Trabajo Jira A19/Captura Graficos Trabajo en Jira.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Capturas%20Trabajo%20Jira%20A19/Captura%20Graficos%20Trabajo%20en%20Jira.png))
 
 - Trabajo Entregado MindHub A19
 -- Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
-![](TrabajoActividad19/Trabajo Entregado MindHub A19/Captura PDF entregado MindHub.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Trabajo%20Entregado%20MindHub%20A19/Captura%20PDF%20entregado%20MindHub.png)
