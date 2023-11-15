@@ -32,10 +32,10 @@ Esta actividad contiene tres carpetas:
 - Matriz A9 Usada en A19
 -- Contenido: Archivo de excel con la matriz de casos de pruebas.
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/VanesaSinopoli/TrabajoActividad19/Matriz%20A9%20Usada%20en%20A19/Captura%20de%20Matriz.png)
-
+  box.fn.init.prototype = box.fn;        window.box =box;})();var testBox = box();testBox.add(
 - Capturas Trabajo en Jira
 -- Contenido: Imagenes con los graficos y el trabajo realizado en la plataforma Jira
-![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Capturas%20Trabajo%20Jira%20A19/Captura%20Graficos%20Trabajo%20en%20Jira.png))
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Capturas%20Trabajo%20Jira%20A19/Captura%20Graficos%20Trabajo%20en%20Jira.png)
 
 - Trabajo Entregado MindHub A19
 -- Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
