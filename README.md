@@ -19,7 +19,8 @@
 NEURONATION
 
 
-* Neuronation es una plataforma en línea que se centra en el entrenamiento cerebral y el desarrollo cognitivo. 
+* Neuronation es una plataforma en línea que se centra en el entrenamiento cerebral y el desarrollo cognitivo.
+* ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/NeuroNation/Descripcion.jpg)
 * Ofrece una variedad de juegos y ejercicios diseñados para mejorar habilidades como la memoria, la concentración y la agilidad mental. 
 * La plataforma utiliza la neurociencia y la gamificación para proporcionar a los usuarios un enfoque interactivo y entretenido para el entrenamiento cerebral, con el objetivo de mejorar el rendimiento cognitivo y mantener la salud mental.
 
@@ -40,3 +41,10 @@ Esta actividad contiene tres carpetas:
 - Trabajo Entregado MindHub A19
 -- Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Trabajo%20Entregado%20MindHub%20A19/Captura%20PDF%20entregado%20MindHub.png)
+
+Actividad Nro 21, Recordatorio de Medicamentos.
+
+Esta actividad la dividí en dos carpetas:
+
+*La primera carpeta corresponde al TC Nro 15 de la actividad "Recordatorio de Medicamentos".
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/Caso%20de%20Prueba/imagen%201.png)
