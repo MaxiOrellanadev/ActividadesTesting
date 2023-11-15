@@ -1,0 +1,16 @@
+Actividad 19: Traspasar la matriz de la actividad 9 en la plataforma Jira, en dicha actividad al equipo le asignaron
+realizar la matriz de casos de pruebas a la pantalla Carrito del Petshop. 
+
+Esta actividad contiene tres carpetas: 
+ 
+ 		Matriz A9 Usada en A19
+			Contenido: Archivo de excel con la matriz de casos de pruebas.
+				(IMAGEN "Captura de Matriz")
+
+		Capturas Trabajo en Jira
+			Contenido: Imagenes con los graficos y el trabajo realizado en la plataforma Jira
+			(IMAGEN "Captura Graficos Trabajo en Jira")					
+	
+		Trabajo Entregado MindHub A19
+			Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
+			(IMAGEN "Captura PDF entregado MindHub")
