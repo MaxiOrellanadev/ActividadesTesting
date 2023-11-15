@@ -21,8 +21,11 @@ NEURONATION
 
 * Neuronation es una plataforma en línea que se centra en el entrenamiento cerebral y el desarrollo cognitivo.
 * ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/NeuroNation/Descripcion.jpg)
-* Ofrece una variedad de juegos y ejercicios diseñados para mejorar habilidades como la memoria, la concentración y la agilidad mental. 
-* La plataforma utiliza la neurociencia y la gamificación para proporcionar a los usuarios un enfoque interactivo y entretenido para el entrenamiento cerebral, con el objetivo de mejorar el rendimiento cognitivo y mantener la salud mental.
+* Ofrece una variedad de juegos y ejercicios diseñados para mejorar habilidades como la memoria, la concentración y la agilidad mental.
+* ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/NeuroNation/funcionalidades.jpg)
+* algunos reportes de la app.
+* ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/NeuroNation/Reportes.jpg)
+* 
 
 
 
@@ -46,5 +49,7 @@ Actividad Nro 21, Recordatorio de Medicamentos.
 
 Esta actividad la dividí en dos carpetas:
 
-*La primera carpeta corresponde al TC Nro 15 de la actividad "Recordatorio de Medicamentos".
+* La primera carpeta corresponde al TC Nro 15 de la actividad "Recordatorio de Medicamentos".
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/Caso%20de%20Prueba/imagen%201.png)
+* la carpeta de "Evidencias" contiene las evidencias de este mismo TC.
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/Evidencias/imagen%20de%20todas%20las%20fotos..png)
