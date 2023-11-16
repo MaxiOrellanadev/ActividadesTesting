@@ -61,6 +61,8 @@ Esta actividad la dividí en dos carpetas:
 Se requiere un sistema el cual pueda llevar el control nutricional del usuario y pueda servir para ganar, perder o mantener el peso corporal, quiero también que el sistema tenga un objetivo diario de calorías recomendadas, basado en su perfil físico y sus deseos relacionados al peso.
 También deberá contener un módulo con carrousel deimágenes y gráficos del progreso del usuario. Adicional a esto quiero que tenga otro módulo donde puedan interactuar con otras aplicaciones y dispositivos
 
-[Podes visitar la Épica haciendo click aqui]([https://www.splitwise.com/](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/Epica%20y%20presentacion/Epica_MyFitnessPal.pdf)https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/Epica%20y%20presentacion/Epica_MyFitnessPal.pdf)
+#Vista de la APP:
 
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/Imagenes/2.png)
+
+
