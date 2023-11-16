@@ -53,14 +53,14 @@ Esta actividad contiene tres carpetas:
 -- Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Trabajo%20Entregado%20MindHub%20A19/Captura%20PDF%20entregado%20MindHub.png)
 
-Actividad Nro 21, Recordatorio de Medicamentos.
+### Actividad Nro 21, Recordatorio de Medicamentos.
 
 Esta actividad la dividí en dos carpetas:
 
 * La primera carpeta corresponde al TC Nro 15 de la actividad "Recordatorio de Medicamentos".
-![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/Caso%20de%20Prueba/imagen%201.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/TC/imagen%201.png)
 * la carpeta de "Evidencias" contiene las evidencias de este mismo TC.
-![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/Evidencias/imagen%20de%20todas%20las%20fotos..png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/CAPTURA%201.png)
 
 ### Actividad 22- My Fitness Pal
 
