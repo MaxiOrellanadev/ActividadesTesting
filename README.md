@@ -73,4 +73,10 @@ También deberá contener un módulo con carrousel deimágenes y gráficos del p
 
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/Imagenes/2.png)
 
+# Vista del Jira:
 
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/Imagenes/1.png)
+
+# Proceso en Jira de Cycle Summary y Test Cases
+  
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/FOR%20IMMEDIATE%20RELEASE.pdf)
