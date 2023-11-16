@@ -1,5 +1,13 @@
 # ActividadesTesting
 
+## Integrantes:
+1. Yamila Correa - Actividad 21 - SplitWise
+2. Maximiliano Orellana - Actividad NeuroNation
+3. Paulina Fridman - Actividad 22
+4. Franco Formigo - Actividad 25
+5. Agustin Sabando - Actividad 21 - Recordatorio de Medicamentos
+6. Vanesa Sinopoli - Actividad 19
+
 ### Actividad21_SplitWise
 
 *Facilita la gestión de finanzas compartidas.
