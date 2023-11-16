@@ -54,4 +54,4 @@ Esta actividad la dividí en dos carpetas:
 * la carpeta de "Evidencias" contiene las evidencias de este mismo TC.
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/Actividad21_Recordatorio%20de%20Medicamentos/Evidencias/imagen%20de%20todas%20las%20fotos..png)
 
-###Actividad 22-
+### Actividad 22- My Fitness Pal
