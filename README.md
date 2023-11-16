@@ -85,7 +85,7 @@ También deberá contener un módulo con carrousel deimágenes y gráficos del p
 #
 ### Actividad 25 - DB Colegio Nuestra Señora de Guadalupe
 
-#ÉPICA:
+# ÉPICA:
 El cliente requiere que se elabore un sistema donde se pueda dar de alta a los alumnos del colegio, para esto debe ser posible registrar el nombre completo del alumno y su teléfono para poder contactarlos.
 El nombre del alumno debe tener una longitud máxima de 50 caracteres.
 El telefono debe escribirse primero utilizando la clave lada de Argentina  (54) mas los 10 dígitos del teléfono.
