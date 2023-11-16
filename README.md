@@ -94,12 +94,19 @@ c) Se debe hacer referencia a las funcionalidades principales.
 Dentro de la App las funcionalidades principales son:
 
 ● Seguimiento de la alimentación
+
 ● Objetivos de Salud Personalizados
+
 ● Registro de Actividad Física
+
 ● Conexión con Dispositivos de Seguimientos
+
 ● Comunidad y Soporte
+
 ● Estadisticas y Graficos
+
 ● Planes de Comidas y Recetas
+
 ● Versiones Gratuitas y Premium
 
 d) Se debe agregar las especificaciones de la app (Tamaño, Sistema Operativo, N° de descargas en Google play)
