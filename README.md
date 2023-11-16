@@ -80,3 +80,40 @@ También deberá contener un módulo con carrousel deimágenes y gráficos del p
 # Proceso en Jira de Cycle Summary y Test Cases
   
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/FOR%20IMMEDIATE%20RELEASE.pdf)
+
+
+#
+### Actividad 25 - DB Colegio Nuestra Señora de Guadalupe
+
+#ÉPICA:
+El cliente requiere que se elabore un sistema donde se pueda dar de alta a los alumnos del colegio, para esto debe ser posible registrar el nombre completo del alumno y su teléfono para poder contactarlos.
+El nombre del alumno debe tener una longitud máxima de 50 caracteres.
+El telefono debe escribirse primero utilizando la clave lada de Argentina  (54) mas los 10 dígitos del teléfono.
+Es necesario ingresar las materias en las que el alumno tenga registro, la longitud del campo materias me debe permitir una lingitud de 25 caracteres, y debe ser una lista desplegabledonde las materias sean: Practicas del Lenguaje, Matemáticas, Ciencias Naturales, Ciencias Sociales, CDC (Construcción de la Ciudadanía), Orientación Vocacional, Inglés, Filosofía, Artisticas.
+Para los maestros debo poder tener el mismo listado de alumnos con sus respectivas
+calificaciones por materia.
+Es necesario identificar a los alumnos por grupos, tenemos Curso A, Curso B y Curso C
+
+# Historias de Usuario:
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Historias%20de%20Usuario/user-story%201.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Historias%20de%20Usuario/user-story%202.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Historias%20de%20Usuario/user-story%203.png)
+
+#
+# Test Cases:
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Alumnos/tc-1.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Alumnos/tc-2.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Alumnos/tc-3.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Alumnos/tc-4.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Materias/tc-1.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Materias/tc-2.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Materias/tc-3.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Materias/tc-4.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Notas/tc-1.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Notas/tc-2.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Notas/tc-3.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Casos%20de%20Prueba/Test%20Cases%20Notas/tc-4.png)
+
+# Reportes:
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Reportes/cdf.png)
+![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad25/Reportes/cycle%20summary.png)
