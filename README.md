@@ -77,9 +77,28 @@ También deberá contener un módulo con carrousel deimágenes y gráficos del p
 
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/Imagenes/1.png)
 
-# Proceso en Jira de Cycle Summary y Test Cases
+# Ficha tecnica
   
-![]([https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/NeuroNation/Reportes.jpg](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/ramaPaulina/FOR%20IMMEDIATE%20RELEASE.pdf))
+a) Qué tipo de aplicación es (Híbrida, Web, Nativa)
+La App es Híbrida
+b) Mencionen la temática de la aplicación.
+MyFitnessPal es una popular aplicación de seguimiento de la salud y el estado
+físico que brinda a los usuarios las herramientas necesarias para controlar su dieta,
+realizar un seguimiento de su actividad física y alcanzar sus objetivos de salud.
+c) Se debe hacer referencia a las funcionalidades principales.
+Dentro de la App las funcionalidades principales son:
+● Seguimiento de la alimentación
+● Objetivos de Salud Personalizados
+● Registro de Actividad Física
+● Conexión con Dispositivos de Seguimientos
+● Comunidad y Soporte
+● Estadisticas y Graficos
+● Planes de Comidas y Recetas
+● Versiones Gratuitas y Premium
+d) Se debe agregar las especificaciones de la app (Tamaño, Sistema Operativo, N° de descargas en Google play)
+Tamaño: Según Google Play 51 mb. Espacio requerido en el dispositivo 179 mb
+Sistema operativo: Android ( a partir de la versión 9), IOS y desde el navegador
+N° de descargas en Google Play: Más de 100 millones de descargas
 
 
 #
