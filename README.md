@@ -1,5 +1,12 @@
 # ActividadesTesting
-
+## Integrantes:
+ ****          Yamila Correa - Actividad 21 - SplitWise
+ ****          Maximiliano Orellana - Actividad NeuroNation
+ ****          Paulina Fridman - Actividad 22
+ ****          Franco Formigo - Actividad 25
+ ****          Agustin Sabando - Actividad 21 - Recordatorio de Medicamentos
+ ****          Vanesa Sinopoli - Actividad 19
+ 
 ### Actividad21_SplitWise
 
 *Facilita la gestión de finanzas compartidas.
@@ -28,15 +35,15 @@ NEURONATION
 Esta actividad contiene tres carpetas: 
 
 - Matriz A9 Usada en A19
-   Contenido: Archivo de excel con la matriz de casos de pruebas.
+      Contenido: Archivo de excel con la matriz de casos de pruebas.
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/VanesaSinopoli/TrabajoActividad19/Matriz%20A9%20Usada%20en%20A19/Captura%20de%20Matriz.png)
 
 - Capturas Trabajo en Jira
-   Contenido: Imagenes con los graficos y el trabajo realizado en la plataforma Jira
+      Contenido: Imagenes con los graficos y el trabajo realizado en la plataforma Jira
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Capturas%20Trabajo%20Jira%20A19/Captura%20Graficos%20Trabajo%20en%20Jira.png)
 
 - Trabajo Entregado MindHub A19
-   Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
+      Contenido: Archivo de PDF con capturas de todo el trabajo ejecutado en Jira. 
 ![](https://github.com/MaxiOrellanadev/ActividadesTesting/blob/main/TrabajoActividad19/Trabajo%20Entregado%20MindHub%20A19/Captura%20PDF%20entregado%20MindHub.png)
 
 # Tuvimos un problema con los archivos y carpetas, tuvimos que recuperar el repositorio a un estado anterior, pero la actividad la seguimos paso a paso para cumplir con el objetivo.
